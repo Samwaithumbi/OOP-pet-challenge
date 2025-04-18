@@ -2,6 +2,10 @@
 
 This is a simple object-oriented programming project in Python that simulates a virtual pet. The pet has attributes like hunger, energy, happiness, and can learn tricks!
 
+## 📸 Screenshot of Output
+
+![Screenshot](screenshot.PNG)
+
 ## 🛠️ Technologies Used
 
 Python 3
